@@ -11,7 +11,7 @@ pages:
 plugins:
   - search
   - encryptcontent: 
-    global_password: 'password'
+      global_password: 'password'
 markdown_extensions:
   - attr_list
   - pymdownx.emoji:
