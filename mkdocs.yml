@@ -1,0 +1,17 @@
+site_name: ""
+nav:
+     - Home: index.md
+
+theme:
+  name: readthedocs
+  logo: img/Logo_5G_META_reversed_on_dark_backgr_only.png
+
+
+pages:
+plugins:
+  - search
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:pymdownx.emoji.to_png_sprite
