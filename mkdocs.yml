@@ -12,6 +12,8 @@ plugins:
   - search
   - encryptcontent: 
       global_password: 'password'
+      title_prefix: '[LOCK]'
+      summary: 'Encripted content'
 markdown_extensions:
   - attr_list
   - pymdownx.emoji:
