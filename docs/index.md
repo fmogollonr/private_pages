@@ -1,5 +1,3 @@
-# Welcome to 5GMETA Project Offical Documentation
-
 ## Requirements
 
 MkDocs requires a recent version of [Python](https://www.python.org/) and the Python package manager, [pip](https://pip.readthedocs.io/en/stable/installing/), to be installed on your system.
