@@ -1,5 +1,5 @@
 --------------------
-password: password
+password= password2
 -------------------
 ## Other info
 
