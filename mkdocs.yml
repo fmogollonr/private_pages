@@ -11,6 +11,7 @@ pages:
 plugins:
   - search
   - encryptcontent: 
+      #global_password: 'password'
       title_prefix: '[LOCK]'
       summary: 'Encripted content'
 markdown_extensions:
