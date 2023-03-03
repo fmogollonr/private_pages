@@ -1,11 +1,11 @@
 site_name: ""
 nav:
      - Home: index.md
-     - Other: other.md
+     - protected: protected.md
 
 theme:
   name: readthedocs
-  logo: img/Logo_5G_META_reversed_on_dark_backgr_only.png
+  logo: img/image.png
 
 pages:
 plugins:
@@ -13,7 +13,7 @@ plugins:
   - encryptcontent: 
       #global_password: 'password'
       title_prefix: '[LOCK]'
-      summary: 'Encripted content'
+      summary: 'Protected content'
 markdown_extensions:
   - attr_list
   - pymdownx.emoji:
