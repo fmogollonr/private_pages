@@ -10,7 +10,8 @@ theme:
 pages:
 plugins:
   - search
-  - encryptcontent: {}
+  - encryptcontent: 
+    global_password: 'password'
 markdown_extensions:
   - attr_list
   - pymdownx.emoji:
