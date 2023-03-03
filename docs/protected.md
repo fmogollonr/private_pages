@@ -1,4 +1,3 @@
-```
 ---
 password: mypassword
 ---
