@@ -1,7 +1,6 @@
 site_name: ""
 nav:
      - Home: index.md
-       other: other.md
 
 theme:
   name: readthedocs
